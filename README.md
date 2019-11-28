@@ -19,3 +19,5 @@ bundle install
 # Hack awaaaay
 ./hack.rb
 ```
+
+[![asciicast](https://asciinema.org/a/gehj1ZTPS22HDsFlIIqeJwX4V.svg)](https://asciinema.org/a/gehj1ZTPS22HDsFlIIqeJwX4V)
