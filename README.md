@@ -7,6 +7,9 @@ like a really productive hacker!
 ## Usage
 
 ```sh
+# Fetch/update DOOM source code
+git submodule update --init
+
 # Install bundler
 gem install bundler
 
